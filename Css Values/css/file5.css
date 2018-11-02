@@ -1,0 +1,32 @@
+.left {
+    height:700px;
+    width:20%;
+    background-color:grey;
+    float:left;
+}
+
+.right {
+    width:70%;
+    height:700px;
+    float:left;
+}
+
+.col1 {
+    height:150px;
+border: 2px solid green;
+    
+}
+
+
+.col2 {
+    height:400px;
+border: 2px solid green;
+    
+}
+
+
+.col3 {
+    height:150px;
+border: 2px solid green;
+    
+}

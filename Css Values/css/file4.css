@@ -1,0 +1,26 @@
+.nav{
+    background-color: grey;
+    height: 700px;
+    width: 20%;
+    text-align: center;
+    float: left;
+}
+.container{
+    float: left;
+    width: 80%;
+    height: 300px;
+    display: block;
+        
+}
+.header{
+    background-color:lightcoral;
+    text-align: center;
+    height: 120px;
+}
+
+.center{
+    background-color: lightgrey;
+    height: 400px;
+    text-align: center;
+    
+}

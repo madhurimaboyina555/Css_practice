@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+
+container {
+	width:100%;
+	clear:both;
+}
+
+.left {
+	width:50%;
+	background-color: green;
+	float:left;
+	height: 70%;
+}
+.right {
+	width:50%;
+	background-color: blue;
+	float:right;
+	height:70%;
+}
